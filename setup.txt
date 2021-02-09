@@ -1,0 +1,9 @@
+Apps:
+VSCode
+KeePass2
+BraveBrowser
+i3wm
+
+Config:
+Touchpad Tap to Click
+
