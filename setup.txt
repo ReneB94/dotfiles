@@ -3,6 +3,8 @@ VSCode
 KeePass2
 BraveBrowser
 i3wm
+Compton
+feh
 
 Config:
 Touchpad Tap to Click
